@@ -1,0 +1,67 @@
+2021-09-28 17:30:26,528 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kosmo:k11tiles:1.0.0-BUILD-SNAPSHOT @ C:\Users\user\Desktop\스프링10일차-최종(82기완료)\K11Tiles\pom.xml.
+2021-09-28 17:30:42,272 [Worker-10] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kosmo:k11geolocationmaps:1.0.0-BUILD-SNAPSHOT @ C:\Users\user\Desktop\스프링10일차-최종(82기완료)\K11GeoLocationMaps\pom.xml.
+2021-09-28 17:30:42,895 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2021-09-28 17:30:43,364 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2021-09-28 17:30:45,962 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:30:46,018 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 17:30:46,134 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:30:46,183 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 17:30:47,879 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kosmo:k11jdbctemplate:1.0.0-BUILD-SNAPSHOT @ C:\Users\user\Desktop\스프링10일차-최종(82기완료)\K11JDBCTemplate\pom.xml.
+2021-09-28 17:30:52,537 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:30:52,543 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-09-28 17:30:52,579 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:30:52,584 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 17:30:57,674 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kosmo:k11jdbctemplate:1.0.0-BUILD-SNAPSHOT @ C:\Users\user\Desktop\스프링10일차-최종(82기완료)\K11JDBCTemplateAuto\pom.xml.
+2021-09-28 17:30:57,954 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2021-09-28 17:30:58,245 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2021-09-28 17:30:58,663 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:30:58,666 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-09-28 17:30:58,686 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:30:58,689 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 17:30:59,311 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kosmo:jsonrestapi:1.0.0-BUILD-SNAPSHOT @ C:\Users\user\Desktop\스프링10일차-최종(82기완료)\K11JSONRestAPI\pom.xml.
+2021-09-28 17:30:59,698 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2021-09-28 17:31:00,288 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2021-09-28 17:31:01,239 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:31:01,243 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 17:31:01,267 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:31:01,274 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 17:31:02,198 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kosmo:k11mybatis:1.0.0-BUILD-SNAPSHOT @ C:\Users\user\Desktop\스프링10일차-최종(82기완료)\K11Mybatis\pom.xml.
+2021-09-28 17:31:02,755 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2021-09-28 17:31:03,066 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2021-09-28 17:31:03,764 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:31:03,768 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 17:31:03,789 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:31:03,792 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 17:31:04,109 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kosmo:k11scheduler:1.0.0-BUILD-SNAPSHOT @ C:\Users\user\Desktop\스프링10일차-최종(82기완료)\K11Scheduler\pom.xml.
+2021-09-28 17:31:04,755 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:31:04,758 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 17:31:04,767 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:31:04,770 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 17:31:05,255 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kosmo:k11security:1.0.0-BUILD-SNAPSHOT @ C:\Users\user\Desktop\스프링10일차-최종(82기완료)\K11Security\pom.xml.
+2021-09-28 17:31:05,463 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2021-09-28 17:31:06,354 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2021-09-28 17:31:07,544 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:31:07,548 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 17:31:07,573 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:31:07,578 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 17:31:08,427 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kosmo:k11springlegacy:1.0.0-BUILD-SNAPSHOT @ C:\Users\user\Desktop\스프링10일차-최종(82기완료)\K11SpringLegacy\pom.xml.
+2021-09-28 17:31:10,142 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:31:10,147 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 10 resources
+2021-09-28 17:31:10,189 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:31:10,193 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 17:31:11,485 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:31:11,501 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 17:31:11,545 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:31:11,550 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 17:31:12,131 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kosmo:k11transaction:1.0.0-BUILD-SNAPSHOT @ C:\Users\user\Desktop\스프링10일차-최종(82기완료)\K11Transaction\pom.xml.
+2021-09-28 17:31:12,298 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2021-09-28 17:31:12,517 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc6:jar:11.2.0.3 is missing, no dependency information available
+2021-09-28 17:31:13,333 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:31:13,337 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 17:31:13,360 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:31:13,364 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 17:31:14,102 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.kosmo:k11websocket:1.0.0-BUILD-SNAPSHOT @ C:\Users\user\Desktop\스프링10일차-최종(82기완료)\K11Websocket\pom.xml.
+2021-09-28 17:31:15,515 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:31:15,519 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-09-28 17:31:15,534 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (MS949 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-09-28 17:31:15,538 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
