@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\user\Documents\SpringBoot"/>
 		<item value="C:\Users\user\Documents\softstudy\SpringBoot"/>
 		<item value="C:\Users\user\Desktop\스프링10일차-최종(82기완료)"/>
 		<item value="C:\Users\user\Documents\Spring-Summary"/>
